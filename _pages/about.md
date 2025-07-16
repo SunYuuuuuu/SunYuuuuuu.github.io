@@ -31,19 +31,34 @@ Publications
 ======
 
 []Wenwei Yue,,段沛博,Changle Li.What Is the Root Cause of Congestion in Urban Traffic Networks: Road Infrastructure or Signal Control?.IEEE Transactions on Intelligent Transportation Systems1 - 18.10.1109/TITS.2021.3085021,
+
 []Jun Kang,,段沛博,Ke Yan.Bayesian Path Inference Using Sparse GPS Samples With Spatio-Temporal Constraints.IEEE Transactions on Intelligent Transportation Systems1 - 13.10.1109/TITS.2021.3113710,
+
 []段沛博,,Jun Kang,Guoqiang Mao.Estimation of link travel time distribution with limited traffic detectors.IEEE Transactions on Intelligent Transportation Systems,21(9):3730-3743.10.1109/TITS.2019.2932053,
+
 []段沛博,,Baoqi Huang,Guoqiang Mao.Estimating Link Travel Time Distribution Using Network Tomography Technique.2019 IEEE Intelligent Transportation Systems Conference (ITSC)2598-2603.10.1109/ITSC.2019.8917279,
+
 []段沛博,Modeling, Analysis and Application of Big Traffic Data for Intelligent Transportation Systems.发布期刊链接http://hdl.handle.net/10453/140252
-[]段沛博,,Weifa Liang,Guoqiang Mao.A unified spatio-temporal model for short-term traffic flow prediction.IEEE Transactions on Intelligent Transportation Systems,20(9):3212-3223.10.1109/TITS.2018.2873137,
+
+[]段沛博,,Weifa Liang,Guoqiang Mao.A unified spatio-temporal model for short-term traffic flow prediction.IEEE Transactions on Intelligent Transportation 
+Systems,20(9):3212-3223.10.1109/TITS.2018.2873137,
+
 []Zhao Haitong,,段沛博,张长胜.Decomposition-based sub-problem optimal solution updating direction-guided evolutionary many-objective algorithm.Information Sciences,448–44991-111发布期刊链接https://doi.org/10.1016/j.ins.2018.03.015
+
 []段沛博,,Wenwei Yue,Guoqiang Mao.A unified STARIMA based model for short-term traffic flow prediction.2018 21st International Conference on Intelligent Transportation Systems (ITSC)1652-1657.10.1109/ITSC.2018.8569964,
+
 []段沛博,,Guoqiang Mao,张长胜.A Trade-off between Accuracy and Complexity: Short-term Traffic Flow Prediction with Spatio-temporal Correlations.2018 21st International Conference on Intelligent Transportation Systems (ITSC)1658-1663.10.1109/ITSC.2018.8569976,
+
 []段沛博,,张斌,张长胜.Applying distributed constraint optimization approach to the user association problem in heterogeneous networks.IEEE transactions on cybernetics,48(6):1696-1707.10.1109/TCYB.2017.2713387,
+
 []段沛博,,张斌,张长胜.Applying DCOP to User Association Problem in Heterogeneous Networks with Markov Chain Based Algorithm.arXiv preprint arXiv:1701.01289发布期刊链接https://doi.org/10.48550/arXiv.1701.01289
+
 []段沛博,,张长胜,Guoqiang Mao.STARIMA-based traffic prediction with time-varying lags.2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)1610-1615.10.1109/ITSC.2016.7795773,
+
 []段沛博,,张斌,张长胜.Research Progress in Distributed Constraint Optimization Method.Journal of Software,27(2016, 27(2)):264-279
+
 []段沛博,,张斌,张长胜.A local stability supported parallel distributed constraint optimization algorithm.The Scientific World Journal,2014发布期刊链接https://doi.org/10.1155/2014/734975
+
 []Xizhe Zhang,,段沛博,Bin Fan.An Execution Behavior Simulation Framework for Composite Web Service.Communications and Information Processing,288568-574发布期刊链接https://doi.org/10.1007/978-3-642-31965-5_66
 
 
