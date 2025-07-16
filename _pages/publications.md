@@ -37,7 +37,7 @@ Advancing non-verbal behavior analysis through deep learning
 ## Research Projects
 
 ### Ongoing Projects
-1. **Multimodal Psychological State Recognition System**
+1. **Multimodal Long-and-Short-Term Psychological State Recognition and Analysis System**
 
 2. **Development of an Intelligent Portfolio Rebalancing System for Stock Prediction Environments**
 
