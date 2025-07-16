@@ -23,12 +23,10 @@ author_profile: true
 1. **PhD-oriented Students**  
    - Demonstrated research potential  
    - Planning for overseas PhD studies  
-   - Preferred skills: academic writing, literature review
 
 2. **Industry-bound Students**  
    - Solid engineering foundation  
    - Proficiency in ≥1 programming language (Python/C++ preferred)  
-   - Experience with project development
 
 > **Note**: Female applicants are particularly encouraged to apply to promote gender balance in the research team.
 
