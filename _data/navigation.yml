@@ -13,12 +13,7 @@ main:
   - title: "Academic Search"
     url: /publications/
   - title: "Teaching"
-    url: /teaching/
-  #- title: "Academic Research"
-   # url: /publications/
-   
-  #- title: "Teaching"
-   # url: /teaching/    
+    url: /teaching/  
     
   #- title: "education"
    # url: /portfolio/
