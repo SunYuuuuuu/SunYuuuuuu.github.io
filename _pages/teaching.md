@@ -34,13 +34,9 @@ author_profile: true
 
 ---
 
-### Prospective Student Guidance
-Admission is just the beginning - choosing the right direction is the real challenge. Ideal candidates should possess:
+### For Prospective Students
 
-- Clear academic/career aspirations  
-- Innovative thinking  
-- Mutual respect  
-- Persistence in long-term goals  
+"Admission marks merely the beginning of a new chapter. The true challenge lies in identifying the right path forward. If you're still seeking your direction, I welcome your inquiry. Ideal candidates should demonstrate:s  
 
 **Contact**:  
 Please email your CV and research statement to [your-email@university.edu] with subject: "2025 MSc Application - [Your Name]".
