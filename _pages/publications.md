@@ -38,21 +38,12 @@ Advancing non-verbal behavior analysis through deep learning
 
 ### Ongoing Projects
 1. **Multimodal Psychological State Recognition System**
-   - Long/short-term mental state analysis using heterogeneous data streams
-   - Integrating physiological signals with behavioral data
 
-2. **AI-powered Portfolio Adjustment Toolkit**
-   - Dynamic asset allocation based on predictive market models
-   - Reinforcement learning for trading strategy optimization
+2. **Development of an Intelligent Portfolio Rebalancing System for Stock Prediction Environments**
 
 3. **Smart Traffic Control Platform**
-   - Urban traffic flow prediction using graph neural networks
-   - Adaptive signal control through deep reinforcement learning
 
 ### Funded Projects
-- **Multimodal Psychological Monitoring System**  
-  (NSFC Grant #XXXXXX, 2022-2025)
-  - Developing wearable devices for real-time mental health assessment
-  - Clinical applications in depression/anxiety detection
+- **Research and Citations on Multimodal Data-based Psychological Monitoring Systems**  
 
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
