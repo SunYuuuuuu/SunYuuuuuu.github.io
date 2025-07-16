@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu Sun(孙雨)"
+title                    : "PeiBo Duan(段沛博)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,17 +23,16 @@ repository               : "SunYuuuuuu/SunYuuuuuu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu Sun"
+  name             : "PeiBo Duan"
   pronouns         :  "he/his"  
-  employer         : "Harbin University of Science 
-                            and Technology"
-  uri              : "https://www.hrbust.edu.cn/"
-  email            : "18396654875@163.com" 
+  employer         : "Northeastern University"
+  uri              : "https://www.neu.edu.cn/"
+  email            : "duanpeibo@swc.neu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   semantic         : # URL
   researchgate     : # URL
