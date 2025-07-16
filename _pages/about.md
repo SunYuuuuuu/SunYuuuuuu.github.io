@@ -17,10 +17,6 @@ Prior to joining Northeastern University in October 2020, Dr. Duan served as a R
 Dr. Duan is a key member of the Intelligent Computing and Service Laboratory directed by Professor Bin Zhang, a research team comprising 12 faculty members (including professors, associate professors, and lecturers)..
 
 
-Publications
-======
-
-
 Competitions
 ======
 
@@ -29,10 +25,6 @@ Competitions
 
 2022
 • Provincial 1st Prize & National 2nd Prize, China Collegiate Computing Design Competition (中国大学生计算机设计大赛)
-
-
-Publications
-======
 
 
 Publications
